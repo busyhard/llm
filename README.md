@@ -18,6 +18,7 @@ Performance benchmarks for conversational language models running locally.
 | AMD Radeon R9 290X 4 GB | Qwen3 4B Instruct 2507 | [Benchmark](benchmarks/chat/amd-radeon-r9-290x/Qwen3-4B-Instruct-2507_0/README.md) |
 | NVIDIA GeForce GTX 680 4 GB | Gemma 3 4B IT Q4_K_M | [Benchmark](benchmarks/chat/nvidia-geforce-gtx-680/gemma-3-4b-it-q4_0/README.md) |
 | NVIDIA GeForce GTX 680 4 GB | Qwen3 4B Instruct 2507 | [Benchmark](benchmarks/chat/nvidia-geforce-gtx-680/Qwen3-4B-Instruct-2507_0/README.md) |
+| NVIDIA GeForce GTX 780 Ti 3 GB | Gemma 3, Qwen | [Benchmark](benchmarks/chat/nvidia-geforce-gtx-780-ti/README.md) |
 
 ### Code Assistance
 
